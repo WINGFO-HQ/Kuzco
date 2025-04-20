@@ -96,7 +96,3 @@ If you encounter issues:
 ## Disclaimer
 
 This script is provided as-is. Always backup your data before running installation scripts on production systems.
-
-```
-
-```
