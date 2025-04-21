@@ -4,7 +4,7 @@ This script automates the installation and configuration process for Kuzco Node 
 
 ## Overview
 
-The Kuzco & ViKey Inference Auto Installer simplifies the deployment of Kuzco nodes by automatically setting up all required components, detecting available ports, and configuring the necessary services.
+The Kuzco & ViKey Inference Auto Installer simplifies the deployment of Kuzco nodes by automatically setting up all required components, detecting available ports, and configuring the necessary services. [Source](https://paragraph.com/@a31/%F0%9F%94%B0-tutorial-menjalankan-node-kuzco-tanpa-gpu-bisa-di-ram-2gb-aja)
 
 ## Prerequisites
 
